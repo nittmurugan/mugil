@@ -1,0 +1,3 @@
+# mugil
+
+AWS instance manager
